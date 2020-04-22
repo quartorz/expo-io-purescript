@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "spago bundle-module --main App --to ../expo/purs/index.js --watch"
+  },
+  "dependencies": {
+  }
+}

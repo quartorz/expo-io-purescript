@@ -1,0 +1,1 @@
+PureScriptでexpo.ioのアプリを作るときのサンプル的なやつです
